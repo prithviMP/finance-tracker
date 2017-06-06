@@ -1,3 +1,8 @@
 class WelcomeController < ApplicationController
-  #code
+
+  def index
+    #code
+  end
+
+  
 end
